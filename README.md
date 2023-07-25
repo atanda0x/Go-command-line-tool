@@ -33,3 +33,5 @@ It gives out an output. In other to it with two parameters:
 ./flagMP -name Atanda0x -age 20
 
 ```
+
+   
